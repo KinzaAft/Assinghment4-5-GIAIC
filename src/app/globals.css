@@ -714,15 +714,3 @@ label{
   flex-direction: row ;
 }
 }
-@media (min-width: 500px)  {
-  .btn{
-    /* margin: 0 ; */
-    margin-left: 400px;
-  }
-  .second-container{
-    height: 2200px;
-  }
-  .box-footer{
-    height: 400px;
-  }
-}
